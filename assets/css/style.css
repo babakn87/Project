@@ -1,3 +1,7 @@
 body {
     background-color: gray ;
 }
+
+.w_100 {
+    width: 100%  !important ;
+}
